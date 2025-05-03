@@ -2,6 +2,8 @@
 
 ## Medium Blog Link - https://medium.com/@anujkamaljain1234/optimizing-agricultural-decisions-building-a-crop-recommendation-engine-with-machine-learning-93a09a38bda6
 
+## Video Link - https://youtu.be/7gqLEZ7T0Ys
+
 ### Note : Please dont forget to download the dataset (.csv) file before running the project.
 
 Made By - 
